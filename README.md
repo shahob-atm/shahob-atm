@@ -3,7 +3,7 @@
 I'm a **Full-Stack Java Developer** with expertise in:
 
 - **Backend Development**: Java, Spring, Spring Boot, REST APIs, Microservices, AOP
-- **Frontend Development**: JavaScript, React, HTML, CSS
+- **Frontend Development**: JavaScript, React, HTML, CSS, Bootstrap, Tailwind
 - **Databases**: MySQL, PostgreSQL, MongoDB
 - **DevOps**: Docker, AWS
 - **Other Skills**: Git, Agile methodologies, TDD
