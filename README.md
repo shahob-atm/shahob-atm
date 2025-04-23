@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a **Full-Stack Java Developer** with expertise in:
+I'm a **Full-Stack Java Developer** in:
 
 - **Backend Development**: Java, Spring, Spring Boot, REST APIs, Microservices, AOP
 - **Frontend Development**: JavaScript, React, HTML, CSS, Bootstrap, Tailwind
