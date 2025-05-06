@@ -6,6 +6,6 @@ I'm a **Full-Stack Java Developer**:
 - **Frontend Development**: JavaScript, React, HTML, CSS, Bootstrap, Tailwind
 - **Databases**: MySQL, PostgreSQL, MongoDB
 - **DevOps**: Docker, AWS
-- **Other Skills**: Git and others
+- **Other Skills**: Git
 
 I'm passionate about building scalable web applications and love to collaborate on open-source projects.
