@@ -32,6 +32,11 @@ I build core systems like:
 - ✅ Completed **"Python: Basics and OOP"** – 3-module course on [Stepik.org](https://stepik.org/users/603663421/profile)  
   (Focus: Python syntax, OOP principles, problem solving)
 
+## 🌐 Languages
+- Uzbek (native)
+- Russian (fluent)
+- English (intermediate)
+
 ## 📫 Contact
 - Email: shahobiddinatamurodov@gmail.com
 - Telegram: [@sh32bit](https://t.me/sh32bit)
