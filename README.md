@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Shakhab
 
 I'm a **Java backend developer** focused on building clean, scalable, and secure microservice-based systems.
+I also use **Python** for scripting and object-oriented design.
 
 ---
 
@@ -10,6 +11,7 @@ I'm a **Java backend developer** focused on building clean, scalable, and secure
 - REST APIs, JWT, OAuth2, Keycloak  
 - MySQL, PostgreSQL, Docker  
 - Git, IntelliJ, Swagger, Postman
+- - Python (OOP, scripting, backend tools)
 
 ---
 
