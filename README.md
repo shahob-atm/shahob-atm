@@ -35,7 +35,7 @@ I build core systems like:
 ## 🌐 Languages
 - Uzbek (native)
 - Russian (fluent)
-- English (intermediate)
+- English (Elementary)
 
 ## 📫 Contact
 - Email: shahobiddinatamurodov@gmail.com
