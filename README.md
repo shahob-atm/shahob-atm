@@ -7,7 +7,7 @@ I also use **Python** for scripting and object-oriented design.
 
 ## 🛠 Tech Stack
 
-- Java 17, Spring Boot, Spring Security, Spring Cloud  
+- Java 17, Jakarta ee, Spring, Spring Boot, Spring Security, Spring Cloud  
 - REST APIs, JWT, OAuth2, Keycloak  
 - MySQL, PostgreSQL, MongoDb, Docker  
 - Git, IntelliJ, Swagger, Postman
