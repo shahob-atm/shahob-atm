@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shakhab
 
-I'm a **Java backend developer** focused on building clean, scalable, and secure systems.
-I also use **Python** for scripting and object-oriented design.
+I'm a Java backend developer focused on building clean, scalable, and secure systems. 
+I also use Python for scripting and object-oriented design, and have working proficiency in C for systems-level programming and performance-critical tasks.
 
 ---
 
